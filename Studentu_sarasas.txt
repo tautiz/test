@@ -5,6 +5,7 @@ Cia bus studentai:
  - Tautvydas Dulskis
  - Benas Ašmontas
  - Vilius Šeputis
+ - Aivaras Jurgutis
  - Zilvis Pilvis
  - Lukas Bočkus
  - Paulina Stanaityte
