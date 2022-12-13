@@ -12,4 +12,4 @@ Cia bus studentai:
  - Andrej Kotov
  - Justas Meškauskas
  - Martynas Jancaras
- -  Andrius Pranskunas
+ - Andrius Pranskunas
