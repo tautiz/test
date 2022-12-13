@@ -1,4 +1,4 @@
 Cia bus studentai:
  - Studento Vardas Pavarde
  - ...
-    Tauras Semaška
+ - Tauras Semaška
