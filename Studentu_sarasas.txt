@@ -1,4 +1,4 @@
 Cia bus studentai:
  - Studento Vardas Pavarde
- - ...
+ - Martynas Jančaras
  - Lukas Bočkus
