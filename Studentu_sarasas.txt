@@ -1,6 +1,6 @@
 Cia bus studentai:
+- Studento Vardas Pavarde
  - Donatas Gelumbauskas
- - Studento Vardas Pavarde
  - Martynas Jančaras
  - Tauras Semaška
  - Tautvydas Dulskis
