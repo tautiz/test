@@ -1,4 +1,4 @@
 Cia bus studentai:
- - Studento Vardas Pavarde
+- Studento Vardas Pavarde
  - Martynas Jančaras
  - Irmantas Vaitele
