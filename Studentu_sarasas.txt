@@ -2,4 +2,5 @@ Cia bus studentai:
  - Studento Vardas Pavarde
  - Martynas Jančaras
  - Tautvydas Dulskis
+ - Benas Ašmontas
  - Vilius Šeputis
