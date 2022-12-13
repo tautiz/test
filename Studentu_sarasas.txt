@@ -2,4 +2,4 @@ Cia bus studentai:
  - Studento Vardas Pavarde
 - Martynas Jančaras
  - Tautvydas Dulskis
-  - Andrius Pranskunas
+ - Andrius Pranskunas
