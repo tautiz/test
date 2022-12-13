@@ -1,2 +1,18 @@
 Cia bus studentai:
  - Donatas Gelumbauskas
+ - Studento Vardas Pavarde
+ - Martynas Jančaras
+ - Tauras Semaška
+ - Tautvydas Dulskis
+ - Benas Ašmontas
+ - Vilius Šeputis
+ - Aivaras Jurgutis
+ - Zilvis Pilvis
+ - Lukas Bočkus
+ - Paulina Stanaityte
+ - Andrej Kotov
+ - Justas Meškauskas
+ - Martynas Jancaras
+ - Andrius Pranskunas
+ - Kostas Ereksonas
+ - Justas Balčiūnas
