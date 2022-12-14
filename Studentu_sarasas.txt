@@ -15,3 +15,5 @@ Cia bus studentai:
  - Kostas Ereksonas
  - Justas Balčiūnas
  - Anzelika Savickiene
+ - Irmantas Vaitele
+ - Simas Diržinauskas
